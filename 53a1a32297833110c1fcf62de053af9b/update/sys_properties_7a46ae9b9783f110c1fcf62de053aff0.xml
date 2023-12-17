@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Pushin P</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_858195_loan_req.Sample Property</name>
+        <read_roles>x_858195_loan_req.loaner_request</read_roles>
+        <suffix>Sample Property</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 01:52:09</sys_created_on>
+        <sys_id>7a46ae9b9783f110c1fcf62de053aff0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_858195_loan_req.Sample Property</sys_name>
+        <sys_package display_value="Loaner Request" source="x_858195_loan_req">53a1a32297833110c1fcf62de053af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">53a1a32297833110c1fcf62de053af9b</sys_scope>
+        <sys_update_name>sys_properties_7a46ae9b9783f110c1fcf62de053aff0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 01:52:09</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles>x_858195_loan_req.loaner_request</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=7a46ae9b9783f110c1fcf62de053aff0"/>
+</record_update>
